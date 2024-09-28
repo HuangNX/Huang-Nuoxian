@@ -7,7 +7,7 @@
 
 <li>
 
-<div class="pub-row">
+<div class="pub-row" style="display: flex; align-items: flex-start;">
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
     {% if edu.icon %} 
     <img src="{{ edu.icon }}" style="width: 30px; height: auto;">
@@ -20,12 +20,14 @@
     {% if edu.school %} 
     <div class="school">{{ edu.school }}</div>
     {% endif %}
-    {% if edu.duration %} 
-    <div class="duration">{{ edu.duration }}</div>
-    {% endif %}
-    {% if edu.location %} 
-    <div class="location">{{ edu.location }}</div>
-    {% endif %}
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      {% if edu.duration %} 
+      <div class="duration">{{ edu.duration }}</div>
+      {% endif %}
+      {% if edu.location %} 
+      <div class="location">{{ edu.location }}</div>
+      {% endif %}
+    </div>
     {% if edu.notes %}
     <div class="notes">   
       <strong><i style="color:#e74d3c">{{ edu.notes }}</i></strong>
