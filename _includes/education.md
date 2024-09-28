@@ -13,21 +13,21 @@
     <img src="{{ edu.icon }}" style="width: 50px; height: auto;">
     {% endif %}
   </div>
-  <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-    {% if edu.title %} 
-    <div class="title"><a href="#">{{ edu.title }}</a></div>
-    {% endif %}
-    {% if edu.school %} 
-    <div class="school">{{ edu.school }}</div>
-    {% endif %}
+  <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px
     <div style="display: flex; justify-content: space-between; width: 100%;">
+      {% if edu.title %} 
+      <div class="title"><a href="#">{{ edu.title }}</a></div>
+      {% endif %}
       {% if edu.duration %} 
       <div class="duration">{{ edu.duration }}</div>
       {% endif %}
-      {% if edu.location %} 
-      <div class="location">{{ edu.location }}</div>
-      {% endif %}
     </div>
+    {% if edu.school %} 
+    <div class="school">{{ edu.school }}</div>
+    {% endif %}
+    {% if edu.location %} 
+    <div class="location">{{ edu.location }}</div>
+    {% endif %}
     {% if edu.notes %}
     <div class="notes">   
       <strong><i style="color:#e74d3c">{{ edu.notes }}</i></strong>
