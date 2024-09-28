@@ -5,9 +5,9 @@
 
 {% for edu in site.data.education.main %}
 
-<li style="margin-bottom: 10px;">
+<li>
 
-<div class="pub-row" style="display: flex; align-items: flex-start;">
+<div class="pub-row" style="display: flex; align-items: flex-start; height: 100px;">
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px; padding-top: 10px">
     {% if edu.icon %} 
     <img src="{{ edu.icon }}" style="width: 70px; height: auto;">
