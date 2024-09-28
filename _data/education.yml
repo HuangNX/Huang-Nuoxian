@@ -7,7 +7,7 @@ main:
     icon: ./assets/img/pku_icon.png
     notes: "<em><strong>Under supervision from <a href='https://scholar.google.com/citations?user=83dMowYAAAAJ&hl=zh-CN&oi=ao' style='color: blue;'>Prof. Wenjia Zhang</a>.</strong></em>"
 
-    - title: Sun Yat-Sen University
+  - title: Sun Yat-Sen University
     school: B.Eng in Traffic Engineering, School of Intelligent Systems Egineering
     duration: Sept 2018 - Jun 2022
     location: Guangzhou % Shenzhen, China
