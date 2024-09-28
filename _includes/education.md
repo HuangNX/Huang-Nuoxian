@@ -30,7 +30,7 @@
     {% endif %}
     {% if edu.notes %}
     <div class="notes">   
-      <strong><i>{{ edu.notes }}</i></strong>
+      {{ edu.notes | safe }}
     </div>
     {% endif %}
   </div>
