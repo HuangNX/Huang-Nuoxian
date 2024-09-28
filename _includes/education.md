@@ -19,7 +19,7 @@
       <div class="title"><a href="#">{{ edu.title }}</a></div>
       {% endif %}
       {% if edu.duration %} 
-      <div class="duration">{{ edu.duration }}</div>
+      <div class="duration" style="color: gray;">{{ edu.duration }}</div>
       {% endif %}
     </div>
     {% if edu.school %} 
@@ -30,7 +30,7 @@
     {% endif %}
     {% if edu.notes %}
     <div class="notes">   
-      <strong><i style="color:#e74d3c">{{ edu.notes }}</i></strong>
+      <strong><i>{{ edu.notes }}</i></strong>
     </div>
     {% endif %}
   </div>
