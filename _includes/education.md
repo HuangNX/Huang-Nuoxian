@@ -10,7 +10,7 @@
 <div class="pub-row" style="display: flex; align-items: flex-start;">
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
     {% if edu.icon %} 
-    <img src="{{ edu.icon }}" style="width: 30px; height: auto;">
+    <img src="{{ edu.icon }}" style="width: 50px; height: auto;">
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
