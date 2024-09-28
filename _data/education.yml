@@ -10,5 +10,5 @@ main:
   - title: Sun Yat-Sen University
     school: B.Eng in Traffic Engineering, School of Intelligent Systems Egineering
     duration: Sept 2018 - Jun 2022
-    location: Guangzhou % Shenzhen, China
+    location: Guangzhou & Shenzhen, China
     icon: ./assets/img/sysu_icon.png
