@@ -13,7 +13,7 @@
     <img src="{{ edu.icon }}" style="width: 50px; height: auto;">
     {% endif %}
   </div>
-  <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px>
+  <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
     <div style="display: flex; justify-content: space-between; width: 100%;">
       {% if edu.title %} 
       <div class="title"><a href="#">{{ edu.title }}</a></div>
