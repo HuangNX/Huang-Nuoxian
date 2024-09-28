@@ -7,7 +7,7 @@
 
 <li>
 
-<div class="edu-row">
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
     {% if edu.icon %} 
     <img src="{{ edu.icon }}" class="teaser img-fluid z-depth-1" style="width: 70; height: auto;">
