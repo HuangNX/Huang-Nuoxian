@@ -8,7 +8,7 @@
 <li style="margin-bottom: 10px;">
 
 <div class="pub-row" style="display: flex; align-items: flex-start;">
-  <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px; padding-top: 20px">
+  <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px; padding-top: 10px">
     {% if edu.icon %} 
     <img src="{{ edu.icon }}" style="width: 70px; height: auto;">
     {% endif %}
