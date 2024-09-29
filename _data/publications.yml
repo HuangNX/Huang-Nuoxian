@@ -6,8 +6,14 @@ main:
     image: ./assets/img/traffic_congestion.png
     notes: Early Accept
 
-  - title: "Built environment changes and adjustment process of walking behavior: Causality inference analysis based on behavioral big data of relocated residents"
+  - title: "Built environment changes and adjustment process of walking behavior: Causal inference analysis based on behavioral big data of relocated residents"
     authors: <strong>Huang, N.</strong>, Lu, D., Zhang, W.*, Zou, Y
     conference: "Transportation Research Part A: Policy and Practice, 2024."
     notes: Under Review
     image: ./assets/img/relocation.png
+
+  - title: "Conformity in human mobility: COVID-19 enhancing the conformity effect"
+    authors: <strong>Huang, N.†</strong>, Wang, Y.†, Zhang, W.*, et al.
+    conference: "Nature Human Behavior"
+    notes: Submmited
+    image: ./assets/img/deconfounder.png
