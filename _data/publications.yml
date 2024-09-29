@@ -33,11 +33,3 @@ main:
     conference: arXiv preprint arXiv:2406.16742 2, 2024
     pdf: https://arxiv.org/abs/2406.16742v1
     image: ./assets/img/tda.png
-
-  - title: "Improved robust interrupted time series model: Detecting nighttime mobility changepoints in Shenzhen residents"
-    authors: <strong>Huang, N.</strong>, Cai Y.
-    notes: In process
-
-  - title: "GeoRAG: Geographic retrieval-augmented generation for advanced LLMs"
-    authors: <strong>Huang, N.</strong>, Li, B., Deng, Z., Zhang W.
-    notes: In process
