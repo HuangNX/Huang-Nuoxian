@@ -4,6 +4,7 @@ main:
     authors: Liu, C., <strong>Huang, N.</strong>, Zhang, W.* (*Corresponding authors)
     conference: Transportation, 2024.
     image: ./assets/img/traffic_congestion.png
+    abstract: ./assets/files/traffic_congestion.pdf
     notes: Early Accept
 
   - title: "Built environment changes and adjustment process of walking behavior: Causal inference analysis based on behavioral big data of relocated residents"
@@ -11,6 +12,7 @@ main:
     conference: "Transportation Research Part A: Policy and Practice, 2024."
     notes: Under Review
     image: ./assets/img/relocation.png
+    abstract: ./assets/files/residential_relocation.pdf
     code: https://github.com/HuangNX/Relocation_ITS
 
   - title: "Conformity in human mobility: COVID-19 enhancing the conformity effect"
@@ -18,6 +20,7 @@ main:
     conference: "Nature Human Behavior"
     notes: Submmited
     image: ./assets/img/conformity.png
+    abstract: ./assets/files/conformity.pdf
     code: https://github.com/HuangNX/Conformity_Casual_Inferance
 
   - title: "PlanGPT: Enhancing urban planning with tailored language model and efficient retrieval"
