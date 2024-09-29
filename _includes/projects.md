@@ -21,5 +21,5 @@
 <h4 style="margin:0 10px 0;">AskNearby: Brdiging Small Neighborhhods with Large Language Model</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Developed and launched an app that combines a large language model with spatial cognition and a spatiotemporal social platform, accumulating over a thousand us</autocolor></li>
+  <li><autocolor>Developed and launched an app that combines a large language model with spatial cognition and a spatio-temporal social platform, accumulating over a thousand us</autocolor></li>
 </ul>
