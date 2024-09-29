@@ -21,9 +21,25 @@ main:
     code: https://github.com/HuangNX/Conformity_Casual_Inferance
 
   - title: "PlanGPT: Enhancing urban planning with tailored language model and efficient retrieval"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    authors: Zhu H, Zhang W, <strong>Huang, N.</strong>, et al.
+    conference_short: Arxiv
+    conference:  arXiv preprint arXiv:2402.19273 2, 2024.
     pdf: https://arxiv.org/pdf/2402.19273
     page: https://arxiv.org/abs/2402.19273
     image: ./assets/img/plangpt.png
+
+  - title: Unveiling activity-travel patterns through topological data analysis
+    authors: <strong>Huang, N.</strong>, Wu Y
+    conference_short: Arxiv
+    conference: arXiv preprint arXiv:2406.16742 2, 2024
+    pdf: https://arxiv.org/pdf/2406.16742v1
+    page: https://arxiv.org/abs/2406.16742v1
+    image: ./assets/img/tda.png
+
+  - title: "Improved robust interrupted time series model: Detecting nighttime mobility changepoints in Shenzhen residents"
+    authors: <strong>Huang, N.</strong>, Cai Y.
+    notes: In process
+
+  - title: "GeoRAG: Geographic retrieval-augmented generation for advanced LLMs"
+    authors: <strong>Huang, N.</strong>, Li, B., Deng, Z., Zhang W.
+    notes: In process
