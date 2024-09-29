@@ -1,12 +1,12 @@
 main:
 
-  - title: "Comparing structural policies for relieving citywide traffic congestion: Longitudinal evidence from 96 Chinese cities"
+  - title: Comparing structural policies for relieving citywide traffic congestion: Longitudinal evidence from 96 Chinese cities
     authors: Liu, C., <strong>Huang, N.</strong>, Zhang, W.* (*Corresponding authors)
     conference: Transportation, 2024.
     image: ./assets/img/traffic_congestion.png
     notes: Early Accept
 
-  - title: "Built environment changes and adjustment process of walking behavior: Causality inference analysis based on behavioral big data of relocated residents"
+  - title: Built environment changes and adjustment process of walking behavior: Causality inference analysis based on behavioral big data of relocated residents
     authors: <strong>Huang, N.</strong>, Lu, D., Zhang, W.*, Zou, Y
     conference: Transportation Research Part A: Policy and Practice, 2024.
     notes: Under Review
