@@ -24,16 +24,14 @@ main:
     authors: Zhu H, Zhang W, <strong>Huang, N.</strong>, et al.
     conference_short: Arxiv
     conference:  arXiv preprint arXiv:2402.19273 2, 2024.
-    pdf: https://arxiv.org/pdf/2402.19273
-    page: https://arxiv.org/abs/2402.19273
+    pdf: https://arxiv.org/abs/2402.19273
     image: ./assets/img/plangpt.png
 
   - title: Unveiling activity-travel patterns through topological data analysis
     authors: <strong>Huang, N.</strong>, Wu Y
     conference_short: Arxiv
     conference: arXiv preprint arXiv:2406.16742 2, 2024
-    pdf: https://arxiv.org/pdf/2406.16742v1
-    page: https://arxiv.org/abs/2406.16742v1
+    pdf: https://arxiv.org/abs/2406.16742v1
     image: ./assets/img/tda.png
 
   - title: "Improved robust interrupted time series model: Detecting nighttime mobility changepoints in Shenzhen residents"
