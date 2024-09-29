@@ -33,3 +33,4 @@ main:
     conference: arXiv preprint arXiv:2406.16742 2, 2024
     pdf: https://arxiv.org/abs/2406.16742v1
     image: ./assets/img/tda.png
+    code: https://github.com/HuangNX/Activity_Pattern_TDA
