@@ -10,7 +10,7 @@ Currently, I am exploring an interpretable framework for spatiotemporal analysis
 
 ## Research Interests
 
-- **Urban From and Transportation:** interactions between land use and travel behavior, human mobility, traffic congestion
+- **Urban Form and Transportation:** interactions between land use and travel behavior, human mobility, traffic congestion
 - **Causal Inference:** longitudinal study design, dynamic process, intervention or policy effects
 - **Emerging technologies:** deep learning (especially RNN frameworks), explainable AI, large language models in urban science
 
